@@ -9,7 +9,7 @@ I'm a software engineer with a passion for systems design and web development.
 - 🥂 Personal Blog: <a href="https://iluvprosecco.com/">iluvprosecco</a>
 
 ### About Me:
-- 🔭 I’m currently grinding Leetcode and working a few side projects.
+- 🔭 I’m currently grinding Leetcode and working on a few side projects.
 - 🌱 I’m currently learning **more** Python.
 - 📫 How to reach me: LinkedIn or via email
 - 😄 Pronouns: She/Her
