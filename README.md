@@ -1,10 +1,10 @@
 # Hi, I'm Kitana Toft 🌸
 
-<img src="https://github.com/kctoft/kctoft/blob/main/pastel-header.png" alt="">
+<img src="https://github.com/kctoft/kctoft/blob/main/ktoft_banner.png" alt="banner">
 
 I'm a software engineer with a passion for systems design and web development.
 
-## Links 🛠️: <img align="left" width="150" height="150" src="https://github.com/kctoft/kctoft/blob/main/cat.png"></a>
+## Links 🛠️: 
 - 💻 My <a href="https://www.linkedin.com/in/kitana/"> LinkedIn</a>
 - 🥂 Personal Blog: <a href="https://iluvprosecco.com/">iluvprosecco</a>
 
@@ -15,8 +15,8 @@ I'm a software engineer with a passion for systems design and web development.
 - ⚡ Fun fact: I can read/write/speak ✨conversational Japanese✨
 
 #### Image credits:
-- Header: <a href="https://www.pinterest.com/pin/658932989208142553/" title="pastel clouds">Pastel Clouds</a>
-- Cat: <a href="https://www.flaticon.com/free-icons/cute" title="cute icons">Cute icons created by Stellalunart - Flaticon</a>
+- Banner: Art AI rendered using Midjourney <a href="https://midjourney.com/" title="ProfilePic">Profile Pic</a>
+- Banner template: Canva <a href="https://www.canva.com/p/templates/EAFdMrMy2PQ-black-and-white-creative-profile-information-linkedin-article-cover-image/">black-and-white-creative-profile</a>
 
 <!--
 **kctoft/kctoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
