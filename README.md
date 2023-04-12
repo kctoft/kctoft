@@ -1,4 +1,4 @@
-# Hi, I'm Kitana Toft 🌸
+# Hi, I'm Kitana Toft
 
 <img src="https://github.com/kctoft/kctoft/blob/main/ktoft_banner.png" alt="banner">
 
