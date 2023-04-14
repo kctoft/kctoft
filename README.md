@@ -6,10 +6,12 @@ I'm a software engineer with a passion for systems design and web development.
 
 ## Links 🛠️: 
 - 💻 My <a href="https://www.linkedin.com/in/kitana/"> LinkedIn</a>
+- 🌐 My <a href="https://kitanatoft.com/">Portfolio</a>
 - 🥂 Personal Blog: <a href="https://iluvprosecco.com/">iluvprosecco</a>
 
 ### About Me:
 - 🔭 I’m currently grinding Leetcode and working on a few side projects.
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: LinkedIn or via email
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can read/write/speak ✨conversational Japanese✨
